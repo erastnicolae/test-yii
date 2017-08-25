@@ -64,10 +64,17 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Bitacad/php/yii"
+		"/E/Bitacad/php/yii",
+		"/E/Bitacad/php/yii/components",
+		"/E/Bitacad/php/yii/controllers",
+		"/E/Bitacad/php/yii/models"
 	],
 	"file_history":
 	[
+		"/E/Bitacad/php/yii/components/MyBehavior.php",
+		"/E/Bitacad/php/yii/models/Test.php",
+		"/E/Bitacad/php/yii/controllers/TestController.php",
+		"/E/Bitacad/php/yii/.gitignore",
 		"/E/Bitacad/php/blog/views/post/view.php",
 		"/E/Bitacad/php/blog/controllers/PostController.php",
 		"/E/Bitacad/php/blog/vendor/yiisoft/yii2/filters/AccessControl.php",
